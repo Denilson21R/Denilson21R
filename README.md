@@ -1,6 +1,6 @@
 ### Olá, eu sou o Denilson!
 - Desenvolvedor Full Stack
-- Cursando Análise e Desenvolvimento de Sistemas
+- Tecnólogo em Análise e Desenvolvimento de Sistemas
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=denilson21r&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
